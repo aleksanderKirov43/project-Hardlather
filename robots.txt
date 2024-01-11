@@ -1,0 +1,17 @@
+User-agent: * 
+Disallow: /bin/ 
+Disallow: /include/ 
+Disallow: /admin/ 
+Disallow: /ik/
+Disallow: /js/
+Disallow: /calculator/ik/
+Disallow: /calculator/index-result.php
+
+
+Sitemap: https://imperial55.ru/Sitemap.xml 
+
+
+User-agent: Yandex
+Clean-param: s /services/services.php
+Clean-param: s /portfolio/portfolio.php
+Clean-param: s /price/index.php
